@@ -14,3 +14,4 @@ servlet是java进行web开发的标准，既然springMVC是对servlet的封装�
 MVC分别是：模型model(javabean)、视图view(jsp/img)、控制器Controller(Action/servlet)。
 C存在的目的就是为了保证M和V的一致性，当M发生改变时，C可以把M中的新内容更新到V中。
 
+![Uploading image.png…]()
